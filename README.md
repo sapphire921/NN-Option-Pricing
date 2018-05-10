@@ -1,4 +1,4 @@
-# NeuralNetworksForOptionsPricing
+# Neural Networks for Options Pricing Based on Machine Learning 
 The purpose of this project is to apply option pricing models to price the S&P500 European options by using both parametric models and non-parametric machine learning models. For parametric models we apply Heston stochastic volatility model and variance gamma model. For machine learning methods, we construct three different types of neural networks, and train and test the models using options data from 2000 to 2016.
 
 1. Built Modular Neural Networks and Gated Neural Networks for options pricing using Keras and TensorFlow in Python.
