@@ -6,3 +6,4 @@ The purpose of this project is to apply option pricing models to price the S&P50
 3. Downloaded S&P500 Index European Options data from WRDS; cleaned and parsed data using Pandas package in Python.
 4. Trained and tested MNN, hybrid MNN and GNN using options from 2000 to 2016; used moneyness and time-to-maturity as features; tuned model hyperparameters; compared MSPE of the three classes of NNs with BS, VG and Heston models.
 
+Sherry
